@@ -1,0 +1,18 @@
+Mario Party
+
+
+From Z:
+
+Mino Dice  - dice have faces like 
+1, 1 , 1, 2, 7, flag
+Rock, Rock, Rock, 4, 5, flag
+Paper, paper, paper, 3, 4, flag
+Etc...
+
+Dice forge - actual literal modular Dice you edit as you progress through the game
+
+Eclipse - weapon types have different hit values, most dice are 3x blank, 3x single hit, and there are some that have 4x blank, 2x 4 hits, some that have 2 blank 4 double hits, etc could be misremembering
+
+Reavers/ champions of Midgard- all dice types have different faces that mean different things. Reavers has more commonality between die faces, champions has more variety and varying hit values
+
+Batman: Arkham Chronicles - ok this is a stretch considering it's like a $300 board game but it's got something similar to eclipse, each type of dice has a different hit spread and hit count per hit, with variance in those, too
